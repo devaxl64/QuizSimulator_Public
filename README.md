@@ -14,28 +14,39 @@ O projeto permite realizar simulados de diferentes cargos, consultar gabaritos e
 
 ### Tela inicial
 
-![Tela inicial](Prints/home.png)
+<p align="center">
+  <img src="Prints/home.png" width="300">
+</p>
 
 ### Escolha do simulado
 
-![Escolha do simulado](Prints/simulados.png)
+<p align="center">
+  <img src="Prints/simulados.png" width="300">
+</p>
 
 ### Realização da prova
 
-![Simulado](Prints/prova.png)
+<p align="center">
+  <img src="Prints/prova.png" width="300">
+</p>
 
 ### Resultado
 
-![Resultado](Prints/resultado.png)
+<p align="center">
+  <img src="Prints/resultado.png" width="300">
+</p>
 
 ### Revisão das respostas
 
-![Revisão](Prints/revisao.png)
+<p align="center">
+  <img src="Prints/revisao.png" width="300">
+</p>
 
 ### Gabaritos
 
-![Gabaritos](Prints/gabaritos.png)
-
+<p align="center">
+  <img src="Prints/gabaritos.png" width="300">
+</p>
 ---
 
 ## 🚀 Funcionalidades
