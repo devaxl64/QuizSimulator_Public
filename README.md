@@ -14,38 +14,38 @@ O projeto permite realizar simulados de diferentes cargos, consultar gabaritos e
 
 ### Tela inicial
 
-<p align="center">
-  <img src="Prints/home.png" width="300">
+<p>
+  <img src="Prints/home.png" width="250">
 </p>
 
 ### Escolha do simulado
 
-<p align="center">
-  <img src="Prints/simulados.png" width="300">
+<p>
+  <img src="Prints/simulados.png" width="250">
 </p>
 
 ### Realização da prova
 
-<p align="center">
-  <img src="Prints/prova.png" width="300">
+<p>
+  <img src="Prints/prova.png" width="250">
 </p>
 
 ### Resultado
 
-<p align="center">
-  <img src="Prints/resultado.png" width="300">
+<p>
+  <img src="Prints/resultado.png" width="250">
 </p>
 
 ### Revisão das respostas
 
-<p align="center">
-  <img src="Prints/revisao.png" width="300">
+<p>
+  <img src="Prints/revisao.png" width="250">
 </p>
 
 ### Gabaritos
 
-<p align="center">
-  <img src="Prints/gabaritos.png" width="300">
+<p>
+  <img src="Prints/gabaritos.png" width="250">
 </p>
 ---
 
@@ -90,7 +90,8 @@ O projeto também faz parte do meu processo de aprendizado em Java e desenvolvim
 
 Projeto funcional e disponível para testes através de APK.
 
-<p align="center">
+
+<p>
   <a href="https://github.com/devaxl64/QuizSimulator_Public/releases/latest">
     <img src="https://img.shields.io/badge/📥_Baixar_APK-PPI_Simulado-green?style=for-the-badge">
   </a>
