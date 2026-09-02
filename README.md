@@ -1,5 +1,7 @@
 # 📱 PPI Simulado
 
+PPI Simulado (Processo de Promoção Interna Simulado).
+
 Aplicativo Android desenvolvido para auxiliar nos estudos e na preparação para provas de conhecimento operacional.
 
 O projeto permite realizar simulados de diferentes cargos, consultar gabaritos e revisar o desempenho após cada tentativa.
