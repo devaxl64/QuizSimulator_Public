@@ -90,6 +90,12 @@ O projeto também faz parte do meu processo de aprendizado em Java e desenvolvim
 
 Projeto funcional e disponível para testes através de APK.
 
+<p align="center">
+  <a href="https://github.com/devaxl64/QuizSimulator_Public/releases/latest">
+    <img src="https://img.shields.io/badge/📥_Baixar_APK-PPI_Simulado-green?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Desenvolvedor
